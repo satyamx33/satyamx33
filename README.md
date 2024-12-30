@@ -1,4 +1,4 @@
-# 🌟 Hi there! I'm Satyam Kumar Singh 🌟
+# 🌟 Hi there! I'm Satyam 🌟
 
 Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who thrives on creativity and innovation. Here's a sneak peek into my world:
 
