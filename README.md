@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 
 - 📧 **Email**: [satyankumarsingh9494@gmail.com](mailto\:satyankumarsingh9494@gmail.com)
 - 📞 **Phone**: +91-6205766138
-- 💻 **LinkedIn**: [Satyam Kumar Singh](https://www.linkedin.com/in/satyam123)
+- 💻 **LinkedIn**: [Satyam Kumar Singh](https://www.linkedin.com/in/satyamsingh123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
